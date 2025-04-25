@@ -44,3 +44,7 @@
 .border-color {
   border-color: #646cff;
 }
+
+.border-color:outline {
+  border-color: #ffffff;
+}
